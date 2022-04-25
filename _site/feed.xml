@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-04-25T12:56:00+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Damiano Cerrone</title><subtitle>Minimalistic Jekyll theme that automatically supports dark and light modes for blogs</subtitle><author><name>andrew-park</name></author><entry><title type="html">A statement by TELT and Demos Helsinki for the Mediterranean Corridor of the TENT-T network</title><link href="http://localhost:4000/2021/10/16/telt/" rel="alternate" type="text/html" title="A statement by TELT and Demos Helsinki for the Mediterranean Corridor of the TENT-T network" /><published>2021-10-16T00:00:00+03:00</published><updated>2021-10-16T00:00:00+03:00</updated><id>http://localhost:4000/2021/10/16/telt</id><content type="html" xml:base="http://localhost:4000/2021/10/16/telt/"><![CDATA[<p><img src="/assets/images/telt/1.png" alt="sample image" /></p>
+
+<p>A statement co-authored with Tunnel Euralpin Lyon Turin for cross-border sustainable transport. Upon our imminent return to a world connected through travel, we have to face the challenge of respecting the environment while also supporting the transport industry. TELT, the French-Italian public promoter of the cross-border section of the freight and passenger railway line Lyon-Turin.</p>
+
+<p><a href="https://demoshelsinki.fi/referenssit/a-multimodal-approach-for-sustainable-cross-border-transit/">The statement is available on Demos Helsinki blog.</a></p>
+
+<p><sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup></p>
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:1" role="doc-endnote">
+      <p>Demos Helsinki 2021. <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>]]></content><author><name>andrew-park</name></author><summary type="html"><![CDATA[]]></summary></entry></feed>
