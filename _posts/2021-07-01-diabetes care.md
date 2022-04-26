@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A multimodal approach for sustainable cross-border transit
+title: An association between biodiversity and T1 diabetes.
 ---
 
 ![sample image]({{site.baseurl}}/assets/images/2021-07-01-diabetes_care.png)
