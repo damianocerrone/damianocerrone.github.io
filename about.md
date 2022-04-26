@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm an urbanist by trade, working across disciplines and institutions to make data meaningful and advance urban education. I design and lead research projects for the public and private sectors while developing academic resaerch and courses. On this webpage I posted project, pubblications and talks I made independently or as representatives for the organizations I worked with, such as [Demos Helsinki](https://demoshelsinki.fi){:target="_blank"}, [Tampere University](https://www.tuni.fi/en/about-us/faculty-built-environment){:target="_blank"}, [TalTech](https://taltech.ee/en/finest-centre-for-smart-cities){:target="_blank"}, [Akkadian](https://akkadian.eu/en){:target="_blank"} and [Terreform CAUR](https://www.terreform.info){:target="_blank"}.
+I'm an urbanist by trade, working across disciplines and institutions to make data meaningful and advance urban education. I design and lead research projects for the public and private sectors while developing academic resaerch and courses. On this webpage you'll find projects, pubblications and miscellanea I made independently or as representatives for the organizations I worked with, such as [Demos Helsinki](https://demoshelsinki.fi){:target="_blank"}, [Tampere University](https://www.tuni.fi/en/about-us/faculty-built-environment){:target="_blank"}, [TalTech](https://taltech.ee/en/finest-centre-for-smart-cities){:target="_blank"}, [Akkadian](https://akkadian.eu/en){:target="_blank"} and [Terreform CAUR](https://www.terreform.info){:target="_blank"}.
 
 I work in &rarr; [a Real Space](https://goo.gl/maps/mjqjcATKGVqVoeaN6){:target="_blank"} in the redhill of Helsinki. The door is open. 
 
