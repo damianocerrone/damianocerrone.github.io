@@ -6,7 +6,7 @@ permalink: /about/
 
 I'm an urbanist by trade, working across disciplines and institutions to make data meaningful and advance urban education. I design and lead research projects for the public and private sectors while developing academic resaerch and courses. On this webpage I posted project, pubblications and talks I made independently or as representatives for the organizations I worked with, such as [Demos Helsinki](https://demoshelsinki.fi){:target="_blank"}, [Tampere University](https://www.tuni.fi/en/about-us/faculty-built-environment){:target="_blank"}, [TalTech](https://taltech.ee/en/finest-centre-for-smart-cities){:target="_blank"}, [Akkadian](https://akkadian.eu/en){:target="_blank"} and [Terreform CAUR](https://www.terreform.info){:target="_blank"}.
 
-I work in [a Real Space](https://goo.gl/maps/mjqjcATKGVqVoeaN6){:target="_blank"} in the redhill of Helsinki. The door is open. 
+I work in &rarr; [a Real Space](https://goo.gl/maps/mjqjcATKGVqVoeaN6){:target="_blank"} in the redhill of Helsinki. The door is open. 
 
 Write me at [me@damianocerrone.info](me@damianocerrone.info) or find an available time slot [here](https://fantastical.app/damianocerrone/meeting-op){:target="_blank"}damianocerrone/meeting-op).
 
@@ -18,5 +18,5 @@ Write me at [me@damianocerrone.info](me@damianocerrone.info) or find an availabl
 
 **Curriculum**
 
-- &rarr; [Most recent (longer) CV](https://www.dropbox.com/s/910vh6zb7t0eqy7/Damiano%20extended%20CV%202022.tex?dl=0)
-- &rarr; [Most recent (brief) CV](https://www.dropbox.com/s/pr8iwbcvbx1bsi5/Damiano%20short%20CV%202022.pdf?dl=0)
+- [Most recent (longer) CV](https://www.dropbox.com/s/910vh6zb7t0eqy7/Damiano%20extended%20CV%202022.tex?dl=0)
+- [Most recent (brief) CV](https://www.dropbox.com/s/pr8iwbcvbx1bsi5/Damiano%20short%20CV%202022.pdf?dl=0)
