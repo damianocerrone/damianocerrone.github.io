@@ -10,3 +10,5 @@ The study we carried out at Tampere University suggests that exposure to an agri
 
 
 Pubblication available on [the American Diabetes Association](https://diabetesjournals.org/care/article/44/7/1506/138805/Land-Cover-of-Early-Life-Environment-Modulates-the)
+
+Pubblication available on [the American Diabetes Association](https://diabetesjournals.org/care/article/44/7/1506/138805/Land-Cover-of-Early-Life-Environment-Modulates-the){:target="_blank"}
