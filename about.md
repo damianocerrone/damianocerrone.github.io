@@ -24,6 +24,8 @@ I’m an urbanist by trade, working across disciplines and institutions to make 
 
 **Longer bio** Damiano Cerrone is an urbanist by trade, working across disciplines to study the relationships between people and the design of their digital and built environments. In 2013 he co-founded SPIN Unit, an urban research and innovation lab based in Helsinki and Tallinn. At SPIN, he works on the lab's three core initiatives of making data meaningful, innovating interactions, and advancing urban education. Cerrone also has an expert role at TalTech FinEst Center for Smart Cities, and he taught urban studies in several universities in Europe, the USA, and China. He's associated with Tampere University and the TERREFORM Center for Advanced Urban Research.  As a consultant, he led projects internationally for local and national institutions with SPIN Unit, Demos Helsinki, and Akkadian. As an academic, Cerrone has been focusing his research on urban analytics and linkages between urban biodiversity and public health. 
 
+**Pics** A [photo of me](https://www.dropbox.com/s/xgezyge4v9o91sb/damiano%20cerrone%20digital%20summit.jpeg?dl=0){:target="_blank"} and a [headshot](https://www.dropbox.com/s/ufq9cp9yrenfanz/damiano%20cerrone%20digital%20summit%20headshot.jpeg?dl=0){:target="_blank"}
+
 **Curriculum**
 
 - [Most recent (longer) CV](https://www.dropbox.com/s/zobacuui0qfs0jm/Damiano%20extended%20CV.pdf?dl=0)
