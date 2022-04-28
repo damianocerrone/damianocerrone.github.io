@@ -11,7 +11,7 @@ The Harju county financed a study to produce the first mobility equity map of th
 
 ---
 
-[A blog-post about the project on Demos Helsinki's website](https://demoshelsinki.fi/2021/03/31/next-stop-make-transportation-work-for-people/){:target="_blank"}
+&rarr; A blog-post about the project [on Demos Helsinki's website](https://demoshelsinki.fi/2021/03/31/next-stop-make-transportation-work-for-people/){:target="_blank"}
 
 &rarr; [The executive summary](https://hol.ee/docs/file/The%20new%20modal%20-%20Executive%20%20Summary%20-%20ENG.pdf){:target="_blank"}
 
