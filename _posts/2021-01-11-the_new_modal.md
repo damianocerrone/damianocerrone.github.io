@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How urban planning turns into interaction planning
+title: The new modal
 ---
 
 The transportation sector needs to pay attention to one of the elephants in the room of our times: equality and how power imbalances became embedded in cities and regions’ transit services. One of the tangible consequences of the status quo is the upholding of invisible barriers that hold back a just and equitable transformation of our cities. Transportation systems and routes are also optimized to increase the system-level efficiency of daily transit. In that case, we must ask ourselves: whose efficiency has been prioritized?
