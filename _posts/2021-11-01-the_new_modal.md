@@ -3,11 +3,12 @@ layout: post
 title: The new modal
 ---
 
-The transportation sector needs to pay attention to one of the elephants in the room of our times: equality and how power imbalances became embedded in cities and regions’ transit services. One of the tangible consequences of the status quo is the upholding of invisible barriers that hold back a just and equitable transformation of our cities. Transportation systems and routes are also optimized to increase the system-level efficiency of daily transit. In that case, we must ask ourselves: whose efficiency has been prioritized?
+The transportation sector is renewing attention to equality and how power imbalances became embedded in cities and regions’ transit services. One of the tangible consequences of the status quo is the upholding of invisible barriers that hold back a just and equitable transformation of our cities. Transportation systems and routes are commonly optimized to increase the system-level efficiency of daily transit. In that case, we must ask ourselves: whose efficiency has been prioritized?
 
 ![Mobility Equity 2 Damiano Cerrone]({{site.baseurl}}/assets/images/2021-01-11-the_new_modal-2.jpeg)
 
-The Harju county financed a study to produce the first mobility equity map of the region using real-time public transport data and draft a strategy to make public transit more equitable across different municipalities.
+The Harju county financed a study to produce the first mobility equity map of the region and draft a policy strategy to make public transit more equitable across different municipalities.  The project utilised used real-time public transport data, together with on-site surveys, to establish a regional equity rank in Estonia.
+
 
 ---
 
