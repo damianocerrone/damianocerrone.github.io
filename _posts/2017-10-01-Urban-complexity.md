@@ -1,10 +1,11 @@
 ---
 layout: post
-title: A multimodal approach for sustainable cross-border transit
+title: Measuring urban complexity with Foursquare data
 ---
-For sustainable cross-border transport, a statement co-authored for Demos Helsinki with Tunnel Euralpin Lyon Turin (TELT). Upon our imminent return to a world connected through travel, we must face the challenge of respecting the environment while also supporting the transport industry. We adhered to supporting decarbonization goals by encouraging green economic growth, enabling sustainable multimodal transport, and committing to a just transition for travel while also empowering regional connectivity and identity.
 
-[Continues on Demos Helsinki's website](https://demoshelsinki.fi/referenssit/a-multimodal-approach-for-sustainable-cross-border-transit/){:target="_blank"}
+The study of urban complexity traces its root back to the first studies in the 1980s with cellular automata and the modeling of emergent phenomena. With my colleagues, we tried to develop a pragmatic approach to map and measure the urban complexity of the existing city. This is done by ranking the diversity of urban amenities along streets using Foursquare data.
 
+[Open access article available on WIT Press](https://www.witpress.com/elibrary/wit-transactions-on-ecology-and-the-environment/226/36305){:target="_blank"}
 
-![TELT Damiano Cerrone]({{site.baseurl}}/assets/images/2017-10-01-urban-complexity.png)
+![Complexity]({{site.baseurl}}/assets/images/2017-10-01-urban-complexity.png)
+
