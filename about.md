@@ -19,7 +19,7 @@ On this webpage I share selected projects, publications, and miscellanea I produ
 
 ---
   
-** &darr; for comms**
+**&darr; For comms**
 
 <sup>**Short bio** Damiano Cerrone is an urbanist and academic. He co-founded the SPIN Unit, where he works with policymakers and place leaders to make data meaningful, innovate interactions, and advance education. He also works and teaches in academic institutions internationally. As a consultant, he develops analytical frameworks to provide actionable strategies for thought leaders and policy makers.<sup>
 
