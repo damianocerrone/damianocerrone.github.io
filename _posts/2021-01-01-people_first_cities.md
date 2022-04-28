@@ -10,4 +10,5 @@ In this article, written with collegues at Demos Helsinki, we write how people-c
 
 [Continues on MAJA](https://ajakirimaja.ee/en/demos-helsinki-human-centered-smart-cities/){:target="_blank"}
 
-![Pop Up City]({{site.baseurl}}/assets/images/2021-01-01-people_first_cities.jpg)
+
+![PEOPLE FIRST SMART CITY Damiano Cerrone]({{site.baseurl}}/assets/images/2021-01-01-people_first_cities.jpeg)
