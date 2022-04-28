@@ -11,7 +11,7 @@ On this webpage I share selected projects, publications, and miscellanea I produ
 
 &rarr; I work in [a Real Space](https://goo.gl/maps/mjqjcATKGVqVoeaN6){:target="_blank"} in the redhill of Helsinki. The door is open.
 
-&rarr; For talks, projects etc write  at [me@damianocerrone.info](me@damianocerrone.info) or find an available time slot to talk [here](https://fantastical.app/damianocerrone/meeting-op){:target="_blank"}.
+&rarr; Write me at <me@damianocerrone.info> and/or find an available time slot to talk [here](https://fantastical.app/damianocerrone/meeting-op){:target="_blank"}.
 
 
 ---
@@ -19,7 +19,7 @@ On this webpage I share selected projects, publications, and miscellanea I produ
 <sup>**More over** Digital connectivity challenges the supremacy of physical space in explaining how we use and experience the urban and natural landscape. Entirely new patterns of local and regional phenomena are emerging within the social fabric. My work builds bridges between scientific research and the urban management practice to enrish the decision making process with digital urban analysis and an informed advice to policymaker. In the past years, I worked to design the Urban Meta-morphology framework, which includes methods and toolboxes to analyze city form, activity patterns, and socio-economic metrics to map the relations between the tangible and the intangible forms of the city.<sup>
 
   
-#### For comms
+##### For comms
 
 <sup>**Short bio** Damiano Cerrone is an urbanist and academic. He co-founded the SPIN Unit, where he works with policymakers and place leaders to make data meaningful, innovate interactions, and advance education. He also works and teaches in academic institutions internationally. As a consultant, he develops analytical frameworks to provide actionable strategies for thought leaders and policy makers.<sup>
 
