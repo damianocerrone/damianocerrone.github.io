@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+
 ---
 
 I’m an urbanist by trade, working across disciplines and institutions to make data meaningful and advance urban education. I design and lead research projects for the public and private sectors while developing academic research and courses. In 2013 I co-founded [SPIN Unit](https://www.spinunit.eu){:target="_blank"}, a resaerch and innovation lab with good intentions based in Tallinn and Helsinki.
@@ -14,12 +15,8 @@ On this webpage I share selected projects, publications, and miscellanea I produ
 
 ---
 
-
 **More over** Digital connectivity challenges the supremacy of physical space in explaining how we use and experience the urban and natural landscape. Entirely new patterns of local and regional phenomena are emerging within the social fabric. My work builds bridges between scientific research and the urban management practice to enrish the decision making process with digital urban analysis and an informed advice to policymaker. In the past years, I worked to design the Urban Meta-morphology framework, which includes methods and toolboxes to analyze city form, activity patterns, and socio-economic metrics to map the relations between the tangible and the intangible forms of the city.
 
-
----
-<font size="-5">
   
 ### For comms
 
@@ -31,6 +28,4 @@ On this webpage I share selected projects, publications, and miscellanea I produ
 &rarr; A [photo of me](https://www.dropbox.com/s/xgezyge4v9o91sb/damiano%20cerrone%20digital%20summit.jpeg?dl=0){:target="_blank"} and an [headshot](https://www.dropbox.com/s/swuy0j4qszfdbf0/Damiano%20short%20CV.pdf?dl=0){:target="_blank"}.
 
 &rarr; Here my [most recent (longer) CV](https://www.dropbox.com/s/0eelcofrh5x1ny0/Damiano%20extended%20CV.pdf?dl=0) and &rarr; here my [most recent (shorter) CV](https://www.dropbox.com/s/swuy0j4qszfdbf0/Damiano%20short%20CV.pdf?dl=0).
-  
-</font>
 
