@@ -7,4 +7,4 @@ Governaments are constantly faceing complex long-term challenges: from handling 
 
 In this report I co-authored at [Demos Helsinki](https://demoshelsinki.fi/referenssit/a-multimodal-approach-for-sustainable-cross-border-transit/){:target="_blank"} and delivered to The Mohammed Bin Rashid Centre for Government Innovation, we presented strategies to help governments align their financing decisions with their longer term strategic objectives, and to address the imbalance between their long-term goals and their usually shortterm financial tools. 
 
-![Anticipatory Public Budgeting]({{site.baseurl}}/assets/images/2021-05-29-Anticipatory_Public_Budgeting.jpg)
+![Anticipatory Public Budgeting]({{site.baseurl}}/assets/images/2021-05-29-anticipatory_public_budgeting.jpg)
