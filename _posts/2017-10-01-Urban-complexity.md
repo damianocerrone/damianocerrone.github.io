@@ -7,4 +7,4 @@ For sustainable cross-border transport, a statement co-authored for Demos Helsin
 [Continues on Demos Helsinki's website](https://demoshelsinki.fi/referenssit/a-multimodal-approach-for-sustainable-cross-border-transit/){:target="_blank"}
 
 
-![TELT Damiano Cerrone]({{site.baseurl}}/assets/images/2021-10-16-telt.jpeg)
+![TELT Damiano Cerrone]({{site.baseurl}}/assets/images/2017-10-01-urban-complexity.png)
