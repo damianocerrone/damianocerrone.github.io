@@ -8,7 +8,8 @@ I’m an urbanist by trade, working across disciplines and institutions to make 
 
 On this webpage I share selected projects, publications, and miscellanea I produced independently, or with some of the organizations I worked with, such as [Demos Helsinki](https://demoshelsinki.fi){:target="_blank"}, [Tampere University](https://www.tuni.fi/en/about-us/faculty-built-environment){:target="_blank"}, [TalTech](https://taltech.ee/en/finest-centre-for-smart-cities){:target="_blank"}, [Akkadian](https://akkadian.eu/en){:target="_blank"}, and [Terreform CAUR](https://www.terreform.info){:target="_blank"}.
 
-&rarr; I work in [a Real Space](https://goo.gl/maps/mjqjcATKGVqVoeaN6){:target="_blank"} in the redhill of Helsinki. The door is open. For talks, projects etc write  at [me@damianocerrone.info](me@damianocerrone.info) or find an available time slot to talk [here](https://fantastical.app/damianocerrone/meeting-op){:target="_blank"}.
+&rarr; I work in [a Real Space](https://goo.gl/maps/mjqjcATKGVqVoeaN6){:target="_blank"} in the redhill of Helsinki. The door is open.
+&rarr; For talks, projects etc write  at [me@damianocerrone.info](me@damianocerrone.info) or find an available time slot to talk [here](https://fantastical.app/damianocerrone/meeting-op){:target="_blank"}.
 
 
 ---
