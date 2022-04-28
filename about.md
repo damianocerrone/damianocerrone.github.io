@@ -16,7 +16,7 @@ On this webpage I share selected projects, publications, and miscellanea I produ
 
 ---
 
-<sup>**More over** Digital connectivity challenges the supremacy of physical space in explaining how we use and experience the urban and natural landscape. Entirely new patterns of local and regional phenomena are emerging within the social fabric. My work builds bridges between scientific research and the urban management practice to enrish the decision making process with digital urban analysis and an informed advice to policymaker. In the past years, I worked to design the Urban Meta-morphology framework, which includes methods and toolboxes to analyze city form, activity patterns, and socio-economic metrics to map the relations between the tangible and the intangible forms of the city.<sup>
+**More over** *Digital connectivity challenges the supremacy of physical space in explaining how we use and experience the urban and natural landscape. Entirely new patterns of local and regional phenomena are emerging within the social fabric. My work builds bridges between scientific research and planning practice to enrich the decision-making process with digital urban analysis and strategic thinking. In the past years, I worked to design the  Meta-morphology framework, which includes methods to analyze city form, activity patterns, and socio-economic metrics to map the relations between the tangible and the intangible forms of the city.*
 
   
 ##### For comms
