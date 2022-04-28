@@ -5,7 +5,7 @@ permalink: /about/
 
 ---
 
-<mark style="background-color: #ebebeb">I’m an urbanist by trade, working across disciplines and institutions to make data meaningful and advance urban education. I design and lead research projects for the public and private sectors while developing academic research and courses. In 2013 I co-founded [SPIN Unit](https://www.spinunit.eu){:target="_blank"}, a resaerch and innovation lab with good intentions based in Tallinn and Helsinki.</mark>
+I’m an urbanist by trade, working across disciplines and institutions to make data meaningful and advance urban education. I design and lead research projects for the public and private sectors while developing academic research and courses. In 2013 I co-founded [SPIN Unit](https://www.spinunit.eu){:target="_blank"}, a resaerch and innovation lab with good intentions based in Tallinn and Helsinki.
 
 On this webpage I share selected projects, publications, and miscellanea I produced independently, at SPIN Unit, or with some of the organizations I work/ed with, such as [Demos Helsinki](https://demoshelsinki.fi){:target="_blank"}, [Tampere University](https://www.tuni.fi/en/about-us/faculty-built-environment){:target="_blank"}, [TalTech](https://taltech.ee/en/finest-centre-for-smart-cities){:target="_blank"}, [Akkadian](https://akkadian.eu/en){:target="_blank"}, and [Terreform CAUR](https://www.terreform.info){:target="_blank"}.
 
