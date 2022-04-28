@@ -9,14 +9,13 @@ I’m an urbanist by trade, working across disciplines and institutions to make 
 
 On this webpage I share selected projects, publications, and miscellanea I produced independently, at SPIN Unit, or with some of the organizations I work/ed with, such as [Demos Helsinki](https://demoshelsinki.fi){:target="_blank"}, [Tampere University](https://www.tuni.fi/en/about-us/faculty-built-environment){:target="_blank"}, [TalTech](https://taltech.ee/en/finest-centre-for-smart-cities){:target="_blank"}, [Akkadian](https://akkadian.eu/en){:target="_blank"}, and [Terreform CAUR](https://www.terreform.info){:target="_blank"}.
 
-&rarr; I work in [a Real Space](https://goo.gl/maps/mjqjcATKGVqVoeaN6){:target="_blank"} in the redhill of Helsinki. The door is open.
-
-&rarr; Write me at <me@damianocerrone.info> and/or find an available time slot to talk [here](https://fantastical.app/damianocerrone/meeting-op){:target="_blank"}.
+- I work in [a Real Space](https://goo.gl/maps/mjqjcATKGVqVoeaN6){:target="_blank"} in the redhill of Helsinki. The door is open.
+- Write me at <me@damianocerrone.info> and/or find an available time slot to talk [here](https://fantastical.app/damianocerrone/meeting-op){:target="_blank"}.
 
 
 ---
 
-**More over** &harr; <mark style="background-color: #ebebeb"> Digital connectivity challenges the supremacy of physical space in explaining how we use and experience the urban and natural landscape. Entirely new patterns of local and regional phenomena are emerging within the social fabric. I aim to build bridges between scientific research and planning practice to enrich the decision-making process with digital urban analysis and strategic thinking. In the past years, I worked to design the  Meta-morphology framework, which includes methods to analyze city form, activity patterns, and socio-economic metrics to map the relations between the tangible and the intangible forms of the city.</mark>
+&rarr; **More over** <mark style="background-color: #ebebeb"> Digital connectivity challenges the supremacy of physical space in explaining how we use and experience the urban and natural landscape. Entirely new patterns of local and regional phenomena are emerging within the social fabric. I aim to build bridges between scientific research and planning practice to enrich the decision-making process with digital urban analysis and strategic thinking. In the past years, I worked to design the  Meta-morphology framework, which includes methods to analyze city form, activity patterns, and socio-economic metrics to map the relations between the tangible and the intangible forms of the city.</mark>
 
 ---
   
