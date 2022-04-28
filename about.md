@@ -29,4 +29,4 @@ On this webpage I share selected projects, publications, and miscellanea I produ
 
 &rarr; A [photo of me](https://www.dropbox.com/s/xgezyge4v9o91sb/damiano%20cerrone%20digital%20summit.jpeg?dl=0){:target="_blank"} and an [headshot](https://www.dropbox.com/s/swuy0j4qszfdbf0/Damiano%20short%20CV.pdf?dl=0){:target="_blank"}.
 
-&rarr; Here my [most recent (longer) CV](https://www.dropbox.com/s/0eelcofrh5x1ny0/Damiano%20extended%20CV.pdf?dl=0).
+&rarr; Here my [most recent (longer) CV](https://www.dropbox.com/s/0eelcofrh5x1ny0/Damiano%20extended%20CV.pdf?dl=0) and &rarr; here my [most recent (shorter) CV](https://www.dropbox.com/s/swuy0j4qszfdbf0/Damiano%20short%20CV.pdf?dl=0).
