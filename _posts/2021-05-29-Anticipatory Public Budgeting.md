@@ -10,4 +10,4 @@ In this report I co-authored at [Demos Helsinki](https://demoshelsinki.fi/refere
 
 
 
-![ANTICIPATORY PUBLIC BUDGETING]({{site.baseurl}}/assets/images/2021-05-29-Anticipatory Public Budgeting.jpg)
+![ANTICIPATORY PUBLIC BUDGETING]({{site.baseurl}}/assets/images/2021-05-29-Anticipatory_Public_Budgeting.jpg)
