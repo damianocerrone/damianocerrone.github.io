@@ -22,7 +22,7 @@ On this webpage I share selected projects, publications, and miscellanea I produ
   
 **&darr; For comms**
 
-<sup>&rarr; Here is my [short bio](https://docs.google.com/document/d/147s69SaZBHu_5m-VVwWS09ttOs-I13D2FyaFO_7193s/edit?usp=sharing){:target="_blank"} and <sup>&rarr; my [longer bio](https://docs.google.com/document/d/1qpqAtIOAPntAQBPoOhoZD9aXvE1pJCJITN3bHY0UI7A/edit?usp=sharing){:target="_blank"}.
+<sup>&rarr; Here is my [short bio](https://docs.google.com/document/d/147s69SaZBHu_5m-VVwWS09ttOs-I13D2FyaFO_7193s/edit?usp=sharing){:target="_blank"} and &rarr; my [longer bio](https://docs.google.com/document/d/1qpqAtIOAPntAQBPoOhoZD9aXvE1pJCJITN3bHY0UI7A/edit?usp=sharing){:target="_blank"}.
 
 <sup>&rarr; A [photo of me](https://www.dropbox.com/s/xgezyge4v9o91sb/damiano%20cerrone%20digital%20summit.jpeg?dl=0){:target="_blank"} and an [headshot](https://www.dropbox.com/s/swuy0j4qszfdbf0/Damiano%20short%20CV.pdf?dl=0){:target="_blank"}.<sup>
 
