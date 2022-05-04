@@ -3,7 +3,9 @@ layout: post
 title: National Study of shrinking patterns.
 ---
 
-&rarr; English summary of the report [on Demos Helsinki's website](https://www.dropbox.com/s/fiuy5vbjel79wya/Shrinking%20cities%20summary%20ENG.pdf?dl=0){:target="_blank"}
+![Shrinking cities map 1]({{site.baseurl}}/assets/images/2021-05-04-shrinking-cities-1.png)
+
+&rarr; [English summary of the report](https://www.dropbox.com/s/fiuy5vbjel79wya/Shrinking%20cities%20summary%20ENG.pdf?dl=0){:target="_blank"}
 
 &rarr; [Original report in Estonian](https://www.dropbox.com/s/4itij5dczthdbwb/Shrinking%20cities%20report%20EST.pdf?dl=0){:target="_blank"}
 
