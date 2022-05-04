@@ -10,7 +10,7 @@ I’m an urbanist by trade, working across disciplines and institutions to make 
 On this webpage I share selected projects, publications, and miscellanea I produced independently, at SPIN Unit, or with some of the organizations I work/ed with, such as [Demos Helsinki](https://demoshelsinki.fi){:target="_blank"}, [Tampere University](https://www.tuni.fi/en/about-us/faculty-built-environment){:target="_blank"}, [TalTech](https://taltech.ee/en/finest-centre-for-smart-cities){:target="_blank"}, [Akkadian](https://akkadian.eu/en){:target="_blank"}, and [Terreform CAUR](https://www.terreform.info){:target="_blank"}.
 
 - I work in [a Real Space](https://goo.gl/maps/mjqjcATKGVqVoeaN6){:target="_blank"} in the redhill of Helsinki. The door is open.
-- Write me at direclty at <me@damianocerrone.info> or call +358 44 238 1084.
+- Write me at <me@damianocerrone.info> or call/text +358 44 238 1084.
 - Find an available time slot to talk or meet [here](https://fantastical.app/damianocerrone/meeting-op){:target="_blank"}.
 
 
