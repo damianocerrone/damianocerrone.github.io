@@ -30,4 +30,3 @@ On this webpage I share selected projects, publications, and miscellanea I produ
 
 
 <sup><sup>big thanks to [John Hadaway](https://johnhadaway.com/){:target="_blank"} for helping setting this webpage up and running.<sup><sup>
-
