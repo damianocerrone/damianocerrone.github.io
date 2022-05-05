@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The new modal
+title: Digitalisation after the smart city
 ---
 ![Forum for the future Damiano Cerrone]({{site.baseurl}}/assets/images/2021-05-19-future-centre.png)
 
