@@ -10,7 +10,7 @@ I’m an urbanist by trade, working across disciplines and institutions to make 
 On this webpage I share selected projects, publications, and miscellanea I produced independently, at SPIN Unit, or with some of the organizations I work/ed with, such as [Demos Helsinki](https://demoshelsinki.fi){:target="_blank"}, [Tampere University](https://www.tuni.fi/en/about-us/faculty-built-environment){:target="_blank"}, [TalTech](https://taltech.ee/en/finest-centre-for-smart-cities){:target="_blank"}, [Akkadian](https://akkadian.eu/en){:target="_blank"}, and [Terreform CAUR](https://www.terreform.info){:target="_blank"}.
 
 - I work in [a Real Space](https://goo.gl/maps/mjqjcATKGVqVoeaN6){:target="_blank"} in the redhill of Helsinki. The door is open.
-- Write me at <me@damianocerrone.info> or call/text +358 44 238 1084.
+- Write me at damianocerrone @ gmail . com or call/text +358 44 238 1084.
 - Find an available time slot to talk or meet [here](https://fantastical.app/damianocerrone/meeting-op){:target="_blank"}.
 
 
@@ -24,7 +24,7 @@ On this webpage I share selected projects, publications, and miscellanea I produ
 
 <sup>&rarr; Here is my [short bio](https://docs.google.com/document/d/147s69SaZBHu_5m-VVwWS09ttOs-I13D2FyaFO_7193s/edit?usp=sharing){:target="_blank"} and &rarr; my [longer bio](https://docs.google.com/document/d/1qpqAtIOAPntAQBPoOhoZD9aXvE1pJCJITN3bHY0UI7A/edit?usp=sharing){:target="_blank"}.
 
-<sup>&rarr; A [photo of me](https://www.dropbox.com/s/xgezyge4v9o91sb/damiano%20cerrone%20digital%20summit.jpeg?dl=0){:target="_blank"} and an [headshot](https://www.dropbox.com/s/swuy0j4qszfdbf0/Damiano%20short%20CV.pdf?dl=0){:target="_blank"}.<sup>
+<sup>&rarr; A [photo of me](https://www.dropbox.com/s/xgezyge4v9o91sb/damiano%20cerrone%20digital%20summit.jpeg?dl=0){:target="_blank"} and an [headshot](https://www.dropbox.com/s/ufq9cp9yrenfanz/damiano%20cerrone%20digital%20summit%20headshot.jpeg?dl=0){:target="_blank"}.<sup>
 
 <sup>&rarr; My [most recent (longer) CV](https://www.dropbox.com/s/0eelcofrh5x1ny0/Damiano%20extended%20CV.pdf?dl=0) and &rarr;  my [most recent (shorter) CV](https://www.dropbox.com/s/swuy0j4qszfdbf0/Damiano%20short%20CV.pdf?dl=0).<sup>
 
