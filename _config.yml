@@ -10,15 +10,15 @@ title: Damiano Cerrone
 
 # Link to avatar in the navbar (/assets/images/avatar.png). Leave empty if no logo desired. Two avatars for light and dark mode.
 # Avatar for light mode site
-lightavatar: 
+lightavatar: /assets/images/light_bauhaus_logo.png
 # Avatar for dark mode site
-darkavatar:
+darkavatar: /assets/images/light_bauhaus_logo.png
 
 # A short description (e.g., A blog dedicated to reviewing cat gifs), used as part of the title tag like Ben's Awesome Site | A blog dedicated to reviewing cat gifs instead of Ben's Awesome Site | Long description about a blog dedicated to reviewing cat gifs that would be used when page.title is not defined.
-tagline: Minimalistic Jekyll theme that automatically supports dark and light modes for blogs
+tagline: Thinking slow thinking slow
 
 # A longer description used for the description meta tag. Also used as fallback for pages that don't provide their own description, and also as part of the page's title tag if neither page.title nor site.tagline has been defined.
-description: Minimalistic Jekyll theme that automatically supports dark and light modes for blogs
+description: Projects, writings and misc
 
 # The full URL to your site. Note: site.github.url will be used by default.
 url:
@@ -30,7 +30,7 @@ url:
 baseurl: ""
 
 # global author information
-author: andrew-park
+author: Damiano Cerrone
 
 # URL to a site-wide logo (e.g., /assets/your-company-logo.png)
 logo: /assets/images/light_bauhaus_logo.png
@@ -42,7 +42,7 @@ permalink: /:year/:month/:day/:title/
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  email: info@damianocerrone.info
+  email: damianocerrone@gmail.com
   instagram: damiano_cerrone
   linkedin: damianocerrone
   rss: Add me to your RSS reader
