@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The new modal
+title: The new modal. A framework for equitable public transit stops
 ---
 
 The transportation sector is renewing attention to equality and how power imbalances became embedded in cities and regions’ transit services. One of the tangible consequences of the status quo is the upholding of invisible barriers that hold back a just and equitable transformation of our cities. Transportation systems and routes are commonly optimised to increase the system-level efficiency of daily transit. In that case, we must ask ourselves: whose efficiency has been prioritised?
